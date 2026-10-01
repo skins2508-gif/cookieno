@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 73418e667f152dc4ab6590a5b7c4a13a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - displayText: {instanceID: 0}
+  - backgroundImage: {instanceID: 0}
+  - button: {instanceID: 0}
+  - numberCardSprite: {fileID: 7535326142047455934, guid: 6a0f80d1016f3cd409ec8b7f93bfb434, type: 3}
+  - operatorCardSprite: {fileID: -8343244354923411308, guid: 6afa3478ed5fed643b0a27a73c9aca1c, type: 3}
+  - specialCardSprite: {instanceID: 0}
+  - aiCardSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
